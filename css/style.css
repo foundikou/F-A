@@ -1,0 +1,17 @@
+#welcome-section {
+    margin-bottom: 40em;
+    height: 100vh;
+    min-height: 100vh;
+    margin-top: 30em;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
